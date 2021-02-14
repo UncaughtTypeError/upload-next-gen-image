@@ -42,17 +42,17 @@ Head over to your media library and start uploading your next gen images. :raise
 
 ## Frequently Asked Questions
 
-= How can I convert images to .avif or .webp? =
+### How can I convert images to .avif or .webp?
 
 Use [Squoosh](https://squoosh.app/ 'Squoosh'). It is an online application that allows you to quickly upload and covert images in your browser.
 
-= What browsers are compatible with .avif, .webp, .svg? =
+### What browsers are compatible with .avif, .webp, .svg?
 
-- .avif: [caniuse.com/?search=avif](https://caniuse.com/avif 'Can I use avif?')
-- .webp: [caniuse.com/?search=webp](https://caniuse.com/webp 'Can I use webp?')
-- .svg: [caniuse.com/?search=svg](https://caniuse.com/svg-img 'Can I use svg?')
+- .avif: [caniuse.com/avif](https://caniuse.com/avif 'Can I use avif?')
+- .webp: [caniuse.com/webp](https://caniuse.com/webp 'Can I use webp?')
+- .svg: [caniuse.com/svg-img](https://caniuse.com/svg-img 'Can I use svg?')
 
-= How do I support older browsers? =
+### How do I support older browsers?
 
 **Give them a fallback.**
 
@@ -73,6 +73,6 @@ The fallback image format specified in the last `<img>` element should be a cros
 
 ## Changelog
 
-= 1.0 =
+**1.0**
 
 - Initial release

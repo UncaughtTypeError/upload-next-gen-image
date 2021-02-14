@@ -47,9 +47,9 @@ Use [Squoosh](https://squoosh.app/ "Squoosh"). It is an online application that 
 
 = What browsers are compatible with .avif, .webp, .svg? =
 
-* .avif: [caniuse.com/?search=avif](https://caniuse.com/avif "Can I use avif?")
-* .webp: [caniuse.com/?search=webp](https://caniuse.com/webp "Can I use webp?")
-* .svg: [caniuse.com/?search=svg](https://caniuse.com/svg-img "Can I use svg?")
+* .avif: [caniuse.com/avif](https://caniuse.com/avif 'Can I use avif?')
+* .webp: [caniuse.com/webp](https://caniuse.com/webp 'Can I use webp?')
+* .svg: [caniuse.com/svg-img](https://caniuse.com/svg-img 'Can I use svg?')
 
 = How do I support older browsers? =
 
