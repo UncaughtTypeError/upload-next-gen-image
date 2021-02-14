@@ -15,7 +15,7 @@
  * Description:       Upload .webp, .avif, and .svg image formats. A plugin that allows you to support nextgen image formats on your Wordpress site.
  * Version:           1.0.0
  * Author:            Nathan Shepherd
- * Author URI:        https://github.com/UncaughtTypeError/nextgen-image-upload
+ * Author URI:        https://github.com/UncaughtTypeError/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-nextgen-image
