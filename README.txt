@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== NextGen Image Upload ===
 Contributors: uncaughttypeerror
 Donate link: https://www.paypal.com/donate?hosted_button_id=9VU7CNG4HPWMU
 Tags: avif, webp, svg
