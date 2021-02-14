@@ -3,7 +3,7 @@ Contributors: uncaughttypeerror
 Donate link: https://www.paypal.com/donate?hosted_button_id=9VU7CNG4HPWMU
 Tags: avif, webp, svg
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 5.6.1
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
