@@ -22,7 +22,7 @@
  * @link       /
  * @since      1.0.0
  *
- * @package    Nextgen_Image_Upload
+ * @package    Image_Upload_Next_Gen_Formats
  */
 
 // If uninstall not called from WordPress, then exit.

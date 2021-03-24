@@ -6,8 +6,8 @@
  * @link       /
  * @since      1.0.0
  *
- * @package    Nextgen_Image_Upload
- * @subpackage Nextgen_Image_Upload/includes
+ * @package    Image_Upload_Next_Gen_Formats
+ * @subpackage Image_Upload_Next_Gen_Formats/includes
  */
 
 /**
@@ -17,11 +17,11 @@
  * the plugin, and register them with the WordPress API. Call the
  * run function to execute the list of actions and filters.
  *
- * @package    Nextgen_Image_Upload
- * @subpackage Nextgen_Image_Upload/includes
+ * @package    Image_Upload_Next_Gen_Formats
+ * @subpackage Image_Upload_Next_Gen_Formats/includes
  * @author     Nathan Shepherd <nathan.shepherd8@gmail.com>
  */
-class Nextgen_Image_Upload_Loader {
+class Image_Upload_Next_Gen_Formats_Loader {
 
 	/**
 	 * The array of actions registered with WordPress.

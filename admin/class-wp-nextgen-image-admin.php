@@ -6,8 +6,8 @@
  * @link       /
  * @since      1.0.0
  *
- * @package    Nextgen_Image_Upload
- * @subpackage Nextgen_Image_Upload/admin
+ * @package    Image_Upload_Next_Gen_Formats
+ * @subpackage Image_Upload_Next_Gen_Formats/admin
  */
 
 /**
@@ -16,11 +16,11 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @package    Nextgen_Image_Upload
- * @subpackage Nextgen_Image_Upload/admin
+ * @package    Image_Upload_Next_Gen_Formats
+ * @subpackage Image_Upload_Next_Gen_Formats/admin
  * @author     Nathan Shepherd <nathan.shepherd8@gmail.com>
  */
-class Nextgen_Image_Upload_Admin {
+class Image_Upload_Next_Gen_Formats_Admin {
 
 	/**
 	 * The ID of this plugin.
@@ -58,10 +58,10 @@ class Nextgen_Image_Upload_Admin {
 	 * Note:
 	 *
 	 * An instance of this class should be passed to the run() function
-	 * defined in Nextgen_Image_Upload_Loader as all of the hooks are defined
+	 * defined in Image_Upload_Next_Gen_Formats_Loader as all of the hooks are defined
 	 * in that particular class.
 	 *
-	 * The Nextgen_Image_Upload_Loader will then create the relationship
+	 * The Image_Upload_Next_Gen_Formats_Loader will then create the relationship
 	 * between the defined hooks and the functions defined in this
 	 * class.
 	 */
