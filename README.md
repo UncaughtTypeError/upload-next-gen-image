@@ -1,4 +1,4 @@
-# Image Upload for Next Generation Formats
+# Image Upload for Next-Generation Formats
 
 Upload .webp, .avif, and .svg image formats. A plugin that allows you to support next generation image formats on your Wordpress site.
 
