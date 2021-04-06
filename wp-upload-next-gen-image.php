@@ -4,21 +4,21 @@
  *
  * @link              https://github.com/UncaughtTypeError/upload-next-gen-image
  * @since             1.0.0
- * @package           Image_Upload_for_Next_Gen_Formats
+ * @package           Image_Upload_for_Next_Generation_Formats
  * @author            Nathan Shepherd
  * @copyright         2021 Nathan Shepherd
  * @license           GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:       Image Upload for Next-Gen Formats
+ * Plugin Name:       Image Upload for Next Generation Formats
  * Plugin URI:        https://github.com/UncaughtTypeError/upload-next-gen-image
- * Description:       Upload .webp, .avif, and .svg image formats. A plugin that allows you to support next-gen image formats on your Wordpress site.
+ * Description:       Upload .webp, .avif, and .svg image formats. A plugin that allows you to support next generation image formats on your Wordpress site.
  * Version:           1.0.0
  * Author:            Nathan Shepherd
  * Author URI:        https://github.com/UncaughtTypeError/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wp-upload-next-gen-image
+ * Text Domain:       wp-upload-next-generation-image
  * Domain Path:       /languages
  */
 
