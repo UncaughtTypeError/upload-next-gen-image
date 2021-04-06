@@ -67,8 +67,8 @@ class Image_Upload_Next_Gen_Formats {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-		if ( defined( 'Image_Upload_Next_Gen_Formats_VERSION' ) ) {
-			$this->version = Image_Upload_Next_Gen_Formats_VERSION;
+		if ( defined( 'IU_NGF_VERSION' ) ) {
+			$this->version = IU_NGF_VERSION;
 		} else {
 			$this->version = '1.0.0';
 		}

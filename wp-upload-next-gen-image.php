@@ -31,7 +31,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Current plugin version.
  * See SemVer - https://semver.org
  */
-define( 'Image_Upload_Next_Gen_Formats_VERSION', '1.0.0' );
+define( 'IU_NGF_VERSION', '1.0.0' );
 
 /**
  * The core plugin class that is used to define internationalization,
