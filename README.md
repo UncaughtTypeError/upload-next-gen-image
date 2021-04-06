@@ -13,7 +13,7 @@ Upload .webp, .avif, and .svg image formats. A plugin that allows you to support
 
 ## Description
 
-Use **Image Upload for Next-Gen Formats** to upload **.avif**, **.webp**, or **.svg** images to your media library.
+Use **Image Upload for Next-Generation Formats** to upload **.avif**, **.webp**, or **.svg** images to your media library.
 
 Just install and activate it.
 
@@ -23,22 +23,22 @@ Head over to your media library and start uploading your next gen images. :raise
 
 ### Download from Wordpress
 
-1. Go to the **Plugins -> Add New** screen and _search_ for **Image Upload for Next-Gen Formats**.
+1. Go to the **Plugins -> Add New** screen and _search_ for **Image Upload for Next-Generation Formats**.
 2. Click **Install Now**.
-3. Click **Activate**, OR Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Gen Formats** and click the **Activate** link.
+3. Click **Activate**, OR Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Generation Formats** and click the **Activate** link.
 
 ### Upload
 
 1. Download the latest archive and unzip.
 1. Go to the **Plugins -> Add New** screen, and click the **Upload Plugin** button.
 1. Upload zipped archive directly.
-1. Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Gen Formats** and click the **Activate** link.
+1. Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Generation Formats** and click the **Activate** link.
 
 ### Manual
 
 1. Download the latest archive and unzip.
 2. Upload/copy the folder to the `/wp-content/plugins/` directory.
-3. Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Gen Formats** and click the **Activate** link.
+3. Go to the **Plugins -> Installed Plugins** screen, find **Image Upload for Next-Generation Formats** and click the **Activate** link.
 
 ## Frequently Asked Questions
 

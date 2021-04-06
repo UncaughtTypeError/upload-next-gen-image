@@ -10,7 +10,7 @@
  * @license           GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:       Image Upload for Next Generation Formats
+ * Plugin Name:       Image Upload for Next-Generation Formats
  * Plugin URI:        https://github.com/UncaughtTypeError/upload-next-generation-image
  * Description:       Upload .webp, .avif, and .svg image formats. A plugin that allows you to support next generation image formats on your Wordpress site.
  * Version:           1.0.0
